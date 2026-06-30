@@ -1,0 +1,6 @@
+{
+  "name": "EventOS Client Portal",
+  "description": "A calm, read-only companion web app for event hosts to monitor real-time task progression, guest count, and timeline milestones on their big day.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
